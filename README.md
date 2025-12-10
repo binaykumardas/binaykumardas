@@ -19,4 +19,4 @@ Also interested in:
 
 Cheers,  
 Binay Kumar Das 
-(http://binaykumardas.tech/)
+(https://binaykumardas.github.io/my-portifolio/)
