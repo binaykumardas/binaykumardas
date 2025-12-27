@@ -18,5 +18,6 @@ Also interested in:
 - Digital Marketing, SEO, Web Security
 
 Cheers,  
-Binay Kumar Das 
+Binay Kumar Das
+
 (https://binaykumardas.github.io/)
