@@ -4,7 +4,7 @@
   <img align="left" alt="Binay Kumar Das - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://x.com/binaykumardas96">
-  <img align="left" alt="Akshay Saini - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg"/>
+  <img align="left" alt="Akshay Saini - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <br />
 <br />
