@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello World, I'm Binay Kumar Das
+# Hello World, I'm Binay Kumar Das
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Angular+%26+React+Enthusiast+%E2%9A%A1;JavaScript+%7C+Node+%7C+Python+Learner;Building+Beautiful+UIs+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
@@ -12,21 +12,21 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Frontend Developer** who loves crafting clean, responsive, and user-friendly web interfaces. I work primarily with **Angular** and **React**, and I'm passionate about JavaScript — especially the beauty of functions, closures, and the async world.
 
 When I'm not coding, I'm exploring new things on the web — from SEO tactics to security patterns. I believe the best frontends aren't just pretty, they're **fast, accessible, and secure**.
 
-- 🏗️ I build component-driven UIs with **Angular** and **React**
-- ⚡ I love **JavaScript** deeply — functions are my happy place
-- 🌱 Currently expanding into **Express.js** and **Python**
-- 🔍 Also curious about **Digital Marketing**, **SEO**, and **Web Security**
-- 🎯 Always learning, always shipping
+-  I build component-driven UIs with **Angular** and **React**
+-  I love **JavaScript** deeply — functions are my happy place
+-  Currently expanding into **Express.js** and **Python**
+-  Also curious about **Digital Marketing**, **SEO**, and **Web Security**
+-  Always learning, always shipping
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -40,7 +40,6 @@ When I'm not coding, I'm exploring new things on the web — from SEO tactics to
 ### Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Interests
@@ -51,27 +50,18 @@ When I'm not coding, I'm exploring new things on the web — from SEO tactics to
 
 ---
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 
-- 🔭 Building and improving my **personal projects** on the frontend
-- 🌱 Learning **Express.js** for full-stack development and diving into **Python**
-- 💡 Exploring **Web Security** concepts and best practices
-- 📖 Staying updated on **SEO trends** and **Digital Marketing** strategies
-
----
-
-## 💬 Fun Facts
-
-- 🧩 I debug CSS like a detective solving mysteries
-- ⚡ Closures, promises, and async/await? I never get tired of them
-- 🌐 I believe every pixel on a page tells a story
-- ☕ Best code is written after a good cup of chai
+-  Building and improving my **personal projects** on the frontend
+-  Learning **Express.js** for full-stack development and diving into **Python**
+-  Exploring **Web Security** concepts and best practices
+-  Staying updated on **SEO trends** and **Digital Marketing** strategies
 
 ---
 
 <div align="center">
 
-*Thanks for visiting! Feel free to explore my repos and reach out via [LinkedIn](https://linkedin.com/in/binaykumardas) or [Twitter](https://twitter.com/binaykumardas96).*
+*Thanks for visiting! Feel free to explore my repos.*
 
 **Cheers,**
 **Binay Kumar Das** | [binaykumardas.github.io](https://binaykumardas.github.io/)
