@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Angular+%26+React+Enthusiast+%E2%9A%A1;JavaScript+%7C+Node+%7C+Python+Learner;Building+Beautiful+UIs+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-binaykumardas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binaykumardas)
-[![Twitter](https://img.shields.io/badge/Twitter-@binaykumardas96-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/binaykumardas96)
-[![Portfolio](https://img.shields.io/badge/Portfolio-binaykumardas.github.io-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://binaykumardas.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binaykumardas)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/binaykumardas96)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://binaykumardas.github.io/)
 
 </div>
 
@@ -29,39 +29,25 @@ When I'm not coding, I'm exploring new things on the web — from SEO tactics to
 ## 🛠️ Tech Stack
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Interests
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-FF4C4C?style=for-the-badge&logo=owasp&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Binay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binaykumardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binaykumardas&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=binaykumardas&theme=tokyonight&hide_border=true)
-
-</div>
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
